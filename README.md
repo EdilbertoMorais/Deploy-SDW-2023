@@ -60,4 +60,4 @@ classDiagram
 Esta API ficará disponível no Railway por um período de tempo limitado, mas este é um código-fonte aberto. Portanto, sintam-se à vontade para cloná-lo, modificá-lo (já que é um bom projeto base para novos projetos) e executar localmente ou onde achar mais interessante! 
 Caso tenha alguma consideração a fazer, fique a vontade 😃.
 
-- URL de Produção: [deploy-sdw-2023-production.up.railway.app](deploy-sdw-2023-production.up.railway.app)
+- URL de Produção: [https://deploy-sdw-2023-production.up.railway.app/swagger-ui/index.html#/user-controller/findById](https://deploy-sdw-2023-production.up.railway.app/swagger-ui/index.html#/user-controller/findById)
